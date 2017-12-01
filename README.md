@@ -1,5 +1,6 @@
 ## vue+node 博客系统
 ### 技术栈 vue2+vuex+axios+vue-router+koa2+mysql
+### front2 是前台展示  admin 是管理后台 server是nodejs服务接口
 ### 前台展示
 ![首页](https://raw.githubusercontent.com/yxl720/vue-node/master/codeimg/front.png)
 ![内容页](https://raw.githubusercontent.com/yxl720/vue-node/master/codeimg/article.png)
