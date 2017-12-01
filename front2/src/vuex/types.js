@@ -1,0 +1,3 @@
+export const HANDLE_TYPE = 'HANDLE_TYPE';
+export const HANDLE_ACTIVE = 'HANDLE_ACTIVE'
+export const SEARCH_TEXT = 'SEARCH_TEXT'

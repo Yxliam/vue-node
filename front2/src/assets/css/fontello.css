@@ -1,0 +1,90 @@
+/* SVG - fonts */
+@font-face {
+  font-family: 'fontello';
+  src: url("../fonts/fontello.eot?44020949");
+  src: url("../fonts/fontello.eot?44020949#iefix") format("embedded-opentype"), url("../fonts/fontello.woff?44020949") format("woff"), url("../fonts/fontello.ttf?44020949") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-sun:before {
+  content: '\e800';
+}
+
+.icon-euro:before {
+  content: '\e801';
+}
+
+.icon-search:before {
+  content: '\e802';
+}
+
+.icon-down-open:before {
+  content: '\e803';
+}
+
+.icon-up-open:before {
+  content: '\e804';
+}
+
+.icon-play:before {
+  content: '\e805';
+}
+
+.icon-facebook:before {
+  content: '\e806';
+}
+
+.icon-gplus:before {
+  content: '\e807';
+}
+
+.icon-twitter:before {
+  content: '\e808';
+}
+
+.icon-eye:before {
+  content: '\e809';
+}
+
+.icon-comment-empty:before {
+  content: '\e80a';
+}
+
+.icon-reply:before {
+  content: '\e80b';
+}
+
+.icon-arrows-cw:before {
+  content: '\e80c';
+}
+
+/* end SVG - fonts */
